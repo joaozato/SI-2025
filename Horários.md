@@ -2,6 +2,6 @@
 | ----- | --------------- | ----------------------------------- | ---------------------------------------- | ---------------------------------------- | ----------------------------------- |
 | 07:45 |                 | fundamentos da administração (1107) |                                          | economia (1107)                          | fundamentos da administração (1107) |
 | 08:35 | economia (1107) | fundamentos da administração (1107) |                                          | economia (1107)                          | fundamentos da administração (1107) |
-| 09:45 | economia (1107) | sistemas para internet I (1107)     | algoritmos e estrutura de dados I (1107) | algoritmos e estrutura de dados I (1107) | matemática discreta (1107)          |
-| 10:35 |                 | sistemas para internet I (1107)     | algoritmos e estrutura de dados I (1107) | algoritmos e estrutura de dados I (1107) | matemática discreta (1107)          |
-| 11:25 |                 | sistemas para internet I (1107)     | algoritmos e estrutura de dados I (1107) | algoritmos e estrutura de dados I (1107) | matemática discreta (1107)          |
+| 09:45 | economia (1107) | sistemas para internet I (1107)     | algoritmos e estruturas de dados I (1107) | algoritmos e estruturas de dados I (1107) | matemática discreta (1107)          |
+| 10:35 |                 | sistemas para internet I (1107)     | algoritmos e estruturas de dados I (1107) | algoritmos e estruturas de dados I (1107) | matemática discreta (1107)          |
+| 11:25 |                 | sistemas para internet I (1107)     | algoritmos e estruturas de dados I (1107) | algoritmos e estruturas de dados I (1107) | matemática discreta (1107)          |
