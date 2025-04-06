@@ -25,7 +25,7 @@ Assumimos que uma pessoa sempre prefere mais de um bem do que menos.
 
 <img src="img/aula-2_fig-1.png" alt="Figura 1" width="250">
 
-Na figura 1, todos os pontos na área vermelha são preferidos [] quantidades de x* do bem x e y* do bem y.
+Na figura 1, todos os pontos na área vermelha são preferidos a quantidades de x* do bem x e y* do bem y.
 
 ## 1.3 Trocas Voluntárias e Curvas de Indiferença (CI)
 Queremos entender como as pessoas reagem quado têm de decidir entre ganhar mais de um bem por abrir mão de outro.
