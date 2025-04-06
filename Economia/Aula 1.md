@@ -24,7 +24,7 @@ Tempo na Faculdade vs (Trabalhar/Dormir/Praia)
 }
 
 ## 3. As pessoas Racionais* pensam na margem.
-*Fazem o melhor para alcançar seus objetivos. Sistemática e objetivamente, conforme as oportunidades disponíveis.
+*Fazem o melhor para alcançar seus objetivos, sistemática e objetivamente, conforme as oportunidades disponíveis.
 
 ## 4. As pessoas reagem a incentivos.
 
