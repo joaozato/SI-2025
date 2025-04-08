@@ -1,5 +1,5 @@
 # Turma de SI 2025
-<div align="center">
+<div>
     <img src="img/furg.png" alt="FURG" width="150">
     <img src="img/c3.png" alt="C3 - Centro de Ciências Computacionais" width="275">
 </div>
