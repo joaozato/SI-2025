@@ -3,7 +3,7 @@ Aula 1; 04/04/2025
 # Logica Proposicional
 
 ## Operadores ou conectivos lógicos
-$\neg$ negação[¹] <br>
+$\neg$ negação[^1] <br>
 $\land$ conjunção <br>
 $\lor$ disjunção <br>
 $\implies$ implicação <br>
