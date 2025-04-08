@@ -8,9 +8,9 @@ Frederick Winslow **Taylor**: livro "Shop Management"
 
 Henry **Ford** era um seguidor de Taylor, tomou sua obra como base e implementou mudanças como a carga horária de 8h/dia.
 
-# Teoria Clássica da Administração
+# Teoria Clássica da Administração (1916)
 Jules Henri **Fayol**: livro "Administração Industrial e Geral"
 - Criou os 14 princípios da gestão
 - Ênfase na ESTRUTURA para conseguir máxima eficiência
 - Uma empresa tem 6 funções básicas: administrativas, técnicas, comerciais, financeiras, contábeis e de segurança
-- Recebeu críticas como a desumanização do trabalhador ("homem-máquina") 
+- Recebeu críticas como a desumanização do trabalhador ("homem-máquina")
