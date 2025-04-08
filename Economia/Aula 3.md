@@ -76,7 +76,6 @@ $$
 Isto é, a inclinação da função f(x) no ponto x, é por definição a derivada.
 $$f(x) = 3x² + 2x + 8 \ \ \ \ \ derivada(x,y)$$
 $$
-\begin{align}
 \lim_{h \to 0} \frac{3(x+h)²+2(x+h)+8-(3x²+2x+8)}{h}
 \\
 \lim_{h \to 0} \frac{3(x²+2xh+h²)+2x+2h+8-3x²-2x-8}{h}
