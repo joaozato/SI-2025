@@ -35,8 +35,8 @@ Note que o intercepto de y é dado por I/Py. Isso mostra que x=0. A quantidade m
 Já a inclinação é dada por -Px/Py a qual mostra o custo de oportunidade (em termos do bem y) de comprar uma unidade a mais do bem x. O valor exato do custo de oportunidade depende do preço dos bens.
 
 ### c) Exemplo
-Suponha que uma pessoa tenha $30 para gastar em hamburguer(y) e cerveja(x) e suponha que Py = $3 e Px = $1.50. A RO seria: [¹]
-[3]: eq. 3
+Suponha que uma pessoa tenha $30 para gastar em hamburguer(y) e cerveja(x) e suponha que Py = $3 e Px = $1.50. A RO seria: [³]
+[³]: eq. 3
 ```math
 Px.x + Py.y = I = 1.5x+3y=30 (3)
 ```
@@ -74,9 +74,9 @@ Se formos diminuindo o valor de $h$, de modo que a distância entre $x$ e $x+h$ 
 mt = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}
 ```
 Isto é, a inclinação da função f(x) no ponto x, é por definição a derivada.
-$$f(x) = 3x² + 2x + 8 \derivative{x}{y}$$
+$$f(x) = 3x² + 2x + 8 \ \ \ \ \ derivada(x,y)$$
 ```math
-\\
+\begin{align}
 \lim_{h \to 0} \frac{3(x+h)²+2(x+h)+8-(3x²+2x+8)}{h}
 \\
 \lim_{h \to 0} \frac{3(x²+2xh+h²)+2x+2h+8-3x²-2x-8}{h}
@@ -90,6 +90,7 @@ $$f(x) = 3x² + 2x + 8 \derivative{x}{y}$$
 \lim_{h \to 0} 6x+3h+2
 \\
 = \lim_{h \to 0} 6x+2
+\end{align}
 ```
 credo                                                         
 ***colocar o atalho q ele fez com regra do expoente q eu n tenho como por setinha assim ;-;***
