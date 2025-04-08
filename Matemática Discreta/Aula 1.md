@@ -42,4 +42,4 @@ $p \iff q$: "p se e somente se q"
 | F   | V   | F              |
 | F   | F   | V              |
 
-[^1]: também pode ser representado por: não p, $\neg p$, ~p, p'
+[^1]: também pode ser representado por: não p, ¬p, ~p, p'
