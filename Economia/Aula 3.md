@@ -70,12 +70,12 @@ m=tgΘ = \frac{f(x+h)-f(x)}{h}
 <sup>CA: cateto adjacente</sup>
 
 Se formos diminuindo o valor de $h$, de modo que a distância entre $x$ e $x+h$ fique cada vez menor, isto é, a medida que $h$ tende a zero ($h->0$), nossa reta secante se aproxima de $x$ até o limite onde nossa reta secante se torna nossa reta tangente. Então:
-$$
+```math
 mt = \lim_{h \to 0} \frac{f(x+h)-f(x)}{h}
-$$
+```
 Isto é, a inclinação da função f(x) no ponto x, é por definição a derivada.
 $$f(x) = 3x² + 2x + 8 \ \ \ \ \ derivada(x,y)$$
-$$
+```math
 \lim_{h \to 0} \frac{3(x+h)²+2(x+h)+8-(3x²+2x+8)}{h}
 \\
 \lim_{h \to 0} \frac{3(x²+2xh+h²)+2x+2h+8-3x²-2x-8}{h}
@@ -89,19 +89,19 @@ $$
 \lim_{h \to 0} 6x+3h+2
 \\
 = \lim_{h \to 0} 6x+2
-$$
+```
 credo                                                         
 ***colocar o atalho q ele fez com regra do expoente q eu n tenho como por setinha assim ;-;***
 
 ### d) Maximização da Utilidade
 
-***Imagem (FIG 10)***
+***FIG 10***
 
 A pessoa seria irracional de escolher o ponto A; ela pode receber um grau maior de utilidade apenas por gastar mais da renda disponível. De forma similar, realocando seus gastos, ela pode ter mais utilidade do que no ponto B, esse é o caso quando a TMS e a razão dos preços diferem e a pessoa pode se mover para uma CI mais alta (U2) por escolher consumir menos hamburgueres(h) e mais cervejas(c). O ponto D está fora de questão porque a renda não é grande o suficiente. Desta forma, o ponto que maximiza a utilidade é o ponto C, o único ponto de tangência entre a RO e a CI.
 Toda a renda é gasta e a inclinação da RO é igual a inclinação da CI. [^5]
-$$
+```math
 \frac{Px}{Py} = TMS (5)
-$$
+```
 
 [^1]: equação 1
 [^2]: equação 2
