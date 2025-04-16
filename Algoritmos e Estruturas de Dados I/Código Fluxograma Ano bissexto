@@ -1,0 +1,25 @@
+#código do fluxograma da aula dia 16/4/25
+#fazer um programa que leia dia, mês e ano, e diga se é válido, e quando for bissexto avisar.
+
+print("olá, você vai escrever dia, Mês e ano, em números e veremos se é valido")
+d = int(input("escolha um dia"))
+m = int(input("escolha um Mês"))
+a = int(input("escolha um Ano"))
+
+if d >=1 and d <= 31 and m >= 1 and m <= 12 and a >= 0:
+    print("data válida")
+    if m == 1 or m == 3 or m == 5 or m == 7 or m == 8 or m == 10 or m == 12:
+        if d <=31:
+            print("data válida")
+    if m == 4 or m == 6 or m == 9 or m == 11:
+        if d <= 30:
+            print("data válida")
+    if m == 2:
+        if d <= 28:
+            print("data válida")
+        elif d == 29 and (a % 4 == 0 and a % 100 != 0 or a % 400 == 0):
+            print ("data válida, o ano é bissexto")
+if d >= 32 or m >= 13 or a < 0:
+    print ("data inválida")
+            
+    
