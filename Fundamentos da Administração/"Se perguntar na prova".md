@@ -8,4 +8,4 @@
 <img src="img/aula-4_processo-administrativo.png" alt="Processo administrativo" width=500>
 
 # Conceito de Administração
-"PODC em todos os níveis da organização, buscando máxima eficiência e eficácia para atingir objetivos."
+"Planejar, organizar, dirigir e controlar em todas áreas e níveis de uma organização, buscando sua eficiência e eficácia para alcançar seus objetivos."
