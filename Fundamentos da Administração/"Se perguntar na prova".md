@@ -11,5 +11,5 @@
 "Planejar, organizar, dirigir e controlar em todas áreas e níveis de uma organização, buscando sua eficiência e eficácia para alcançar seus objetivos."
 
 # Função Planejamento
-Tipos de Planejamento em cada nível organizacional.
+Tipos de Planejamento em cada nível organizacional.\
 <img src="img/aula-6_tipos-de-planejamento.png" alt="Tipos de Planejamento" width=375>
