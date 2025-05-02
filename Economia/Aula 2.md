@@ -2,7 +2,7 @@ Aula 2; 03/04/2025
 
 # Utilidade e Escolhas
 ## 1.1 Utilidade
-A satifação que um indivíduo recebe de suas atividades econômicas.
+A satifasção que um indivíduo recebe de suas atividades econômicas.
 
 ### a) Ceteris Paribus
 Simplificamos a análise de consumo de um indivíduo por assumir que sua satisfação é afetada apenas pelas escolhas entre os bens sendo considerada. Todos os outros efeitos na satisfação são consideradas constantes (Ceteris paribus).
