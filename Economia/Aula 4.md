@@ -33,7 +33,7 @@ TMS = \frac{UMgx}{UMgy}
 
 Então, se [^iU]
 ```math
-	Py/Px = TMS = UMgx/UMgy
+	\frac{Py}{Px} = TMS = \frac{UMgx}{UMgy}
 ```
 Para a maximização da utilidade, temos: [^U]
 ```math
