@@ -8,7 +8,7 @@ Partindo de onde parou na aula passada:
 >Uma forma alternativa de ver isso:
 
 A utilidade marginal é a utilidade extra obtida pelo consumo de uma unidade a mais do bem x.\
-Se o indivíduo se depara com a escolha de abrir mão de algum $y.Δy$ para ter um adicional $x.Δx$, a mudança na utilidade $ΔU$ é dada por: [^i]
+Se o indivíduo se depara com a escolha de abrir mão de algum $y (Δy$) para ter um adicional $x (Δx$), a mudança na utilidade $ΔU$ é dada por: [^i]
 
 $UMg$: Utilidade Marginal; $Δ$: Variação
 ```math
