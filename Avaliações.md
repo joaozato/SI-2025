@@ -1,4 +1,4 @@
-- [ ] AED1 - Prova - 15/05
+- [x] AED1 - Prova - 15/05
 - [ ] Administração - Avaliação 1 - 16/05
 - [ ] Discreta - Prova - 23/05
 - [ ] Economia - Prova 1, Lista 1 - 29/05
