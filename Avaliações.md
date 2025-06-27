@@ -8,6 +8,7 @@
 
 # 2º bimestre
 - [ ] Economia - Prova 2, Lista 2 - 21/07
+- [ ] Discreta - Prova - 11/07
 
 - [ ] Economia - Exame - 31/07
 
