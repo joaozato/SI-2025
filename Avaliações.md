@@ -5,7 +5,7 @@
 - [x] Economia - Prova, Lista - 05/06
 - [x] Sistemas - Avaliação - 10/06
 - [x] AED1 - Lista - 03/07
-- [ ] AED1 - Prova 2 - 10/07
+- [x] AED1 - Prova 2 - 10/07
 
 # 2º bimestre
 - [ ] Discreta - Prova - 11/07
